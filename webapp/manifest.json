@@ -149,7 +149,7 @@
               }
             },
             "dataLoadSettings": {
-              "loadDataOnAppLaunch": "never"
+              "loadDataOnAppLaunch": "always"
             }
           }
         },
